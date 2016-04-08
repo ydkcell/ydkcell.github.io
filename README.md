@@ -1,2 +1,16 @@
+
+
 # ydkcell.github.io
-site
+[![Build Status](https://travis-ci.org/ydkcell/ydkcell.github.io.svg?branch=master)](https://travis-ci.org/ydkcell/ydkcell.github.io)
+
+```
+         /\_/\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
+```
+
+## Currently
+
+- The most basic of basics jekyll template
+- Messing around with CI
