@@ -1,12 +1,8 @@
 #.travis.yml
 language: ruby
 rvm:
-- 2.3.0
+- 2.1
 
-# branch whitelist
-branches:
-  only:
-  - dev
 
 before_script:
  - chmod +x cibuild.sh
