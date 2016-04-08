@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Another One"
 date: 2016-04-08
 ---
