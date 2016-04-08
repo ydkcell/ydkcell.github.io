@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://production.cf.rubygems.org/"
 
-gem "jekyll"
-gem "rake"
+gem "rake", "~> 10.1.1"
+gem "html-proofer"
