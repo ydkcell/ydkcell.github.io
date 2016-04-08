@@ -1,2 +1,4 @@
-install: gem install jekyll html-proofer
-script: jekyll build && htmlproofer ./_site
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "html-proofer"
