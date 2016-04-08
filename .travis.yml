@@ -7,3 +7,5 @@ script:
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+exclude: [vendor]
+sudo: false
