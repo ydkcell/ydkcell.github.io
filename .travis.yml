@@ -7,13 +7,7 @@ before_script:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-# script: Gemfile
-
-# branch whitelist, only for GitHub Pages
-branches:
-  only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+script: ./script/cibuild
 
 env:
   global:
