@@ -1,3 +1,8 @@
 body {
-	background-color: #ebebeb;
+	background-color: purple;
+	font-family: Open Sans;
+}
+
+a:link,a:visited,a:active,a:hover{
+	color: white;
 }
