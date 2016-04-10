@@ -18,6 +18,5 @@
 
 ## Currently
 
-- The most basic of basics jekyll template
-- Messing around with CI
-  doesn't seem to be working?
+- Messing around with Jekyll. Should make a working template soon.
+- The basic tests run (yayy!)
